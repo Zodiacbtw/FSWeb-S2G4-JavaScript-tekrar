@@ -149,6 +149,7 @@ siralisayilar = besyuzdenkucuksayilar.sort((a, b) => a - b);
 console.log("Sıralı sayılar (500'den küçük): " + siralisayilar);
 
 // 3f çözümü
+// bugfix
 
 tekraredensayilar = [];
 const tekrar = {};
