@@ -143,6 +143,7 @@ besyuzdenkucuksayilar = sayilar.filter((sayi) => sayi < 500);
 console.log("500'den küçük sayılar: " + besyuzdenkucuksayilar);
 
 // 3e çözümü
+// bugfix
 
 siralisayilar = besyuzdenkucuksayilar.sort((a, b) => a - b);
 
